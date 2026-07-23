@@ -18,14 +18,14 @@ const reviews = [
     name: "Amit Patel",
     role: "Tech Startup Founder",
     amount: "₹1.2 Crores",
-    img: "img_res/Rajesh_Kumar.png",
+    img: "img_res/Amit_Patel.png",
   },
   {
     text: "Transparent process with no hidden charges. Funds arrived exactly when needed.",
     name: "Vikram Singh",
     role: "Construction Company",
     amount: "₹80 Lakhs",
-    img: "/img_res/Rajesh_Kumar.png"
+    img: "img_res/Rajesh_Kumar.png"
   }
 ];
 
